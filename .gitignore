@@ -1,5 +1,8 @@
 # Ignore everything in the data folder
 data/*
 
+child-mind-institute-problematic-internet-use/*
+.ipynb_checkpoints/*
+
 # But don't ignore the data folder itself
 !data/
