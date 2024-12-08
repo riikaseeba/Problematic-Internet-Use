@@ -14,7 +14,7 @@ The **data-mining goal** of this project is to predict a participant's Severity 
 
 
 ## Repository Guidance
-1. You'll find the code for model training at PIU_model.ipynb.
+1. You'll find the code for model training at **PIU_data_analysis_and_model.ipynb**.
 2. Report of this project is described in  B1_report.pdf
 3. Data refrence is here: 
         
@@ -22,7 +22,7 @@ The **data-mining goal** of this project is to predict a participant's Severity 
 
 
 ## Results
-![alt text](image.png)
+![alt text](test_sii.png)
 
 Accuracy of the prediction result was 0.371 (in place of 2164 in the competition).
 
