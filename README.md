@@ -14,17 +14,14 @@ The **data-mining goal** of this project is to predict a participant's Severity 
 
 
 ## Repository Guidance
-1. You'll find the code for model training at PIU_model.ipynb.
-2. Report of this project is described in  B1_report.pdf
-3. Data refrence is here: 
-        
-        https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use/data
+1. You'll find the code for model training in _____ folder at ______.ipynb.
+2. Report of this project is described in B1_report.pdf. 
+3. Data refrences are in data folder.
+4. ...
 
 
 ## Results
-![alt text](image.png)
-
-Accuracy of the prediction result was 0.371 (in place of 2164 in the competition).
+***Explain how it is possible to take the code and replicate the same analysis that the authors have done***
 
 
 
